@@ -1,0 +1,14 @@
+.navbar-content-container {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+
+.navbar-object {
+  background-color: #1F2837;
+}
+
+#header-logo {
+  font-size: 24px;
+  color: #F9FAF8;
+}
