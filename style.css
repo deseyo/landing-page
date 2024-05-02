@@ -224,3 +224,20 @@ body {
   color: #F9FAF8;
   background-color: #3882F6;
 }
+
+
+.webpage-section-five {
+  padding: 30px 0px;
+  background-color: #1F2937;
+}
+
+.main-content-container-four {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cc-four-item-copyright-text {
+  font-size: 18px;
+  color: #E5E7EB;
+}
