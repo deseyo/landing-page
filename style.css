@@ -184,3 +184,43 @@ body {
   font-weight: bold;
   color: #1F2937;
 }
+
+
+.webpage-section-four {
+  padding: 100px 250px;
+  background-color: white;
+}
+
+.main-content-container-three {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px 100px;
+  background-color: #3882F6;
+}
+
+.cc-three-item-texts-container {
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+.cc-three-item-texts-container-main-text {
+  font-size: 24px;
+  font-weight: bold;
+  color: #F9FAF8;
+}
+
+.cc-three-item-texts-container-subtext {
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+.cc-three-item-signup-button {
+  padding: 8px 32px;
+  font-size: 16px;
+  font-weight: bold;
+  border: 2px solid white;
+  border-radius: 10px;
+  color: #F9FAF8;
+  background-color: #3882F6;
+}
